@@ -26,6 +26,8 @@
 
 ### 4. Reverse shell!
 
+- [Code](https://github.com/calc1f4r/30-days-of-black-hat-python/tree/master/Black_Hat_Python/Day%2006)
+
 ### Web Hacking
 
 ### 5. Multithreaded Subdomain Bruteforcer which supports filtering options
