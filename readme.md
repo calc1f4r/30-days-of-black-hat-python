@@ -46,10 +46,18 @@
 
 - [Code](https://github.com/calc1f4r/30-days-of-black-hat-python/tree/master/Black_Hat_Python/Day%2010)
 
-### Recusrive Web Crawler which gets you things like subdomains,Links and js files which by extracting it from the page !
+### 8. Recusrive Web Crawler which gets you things like subdomains,Links and js files which by extracting it from the page !
 
 - [Code](https://github.com/calc1f4r/30-days-of-black-hat-python/tree/master/Black_Hat_Python/Day%2011)
 
-### CLRF Injection Tool
+### 9. CLRF Injection Tool
 
 - [Code](https://github.com/calc1f4r/30-days-of-black-hat-python/tree/master/Black_Hat_Python/Day%2012)
+
+---
+
+### _Forensics Section_
+
+### 12. Password Protected Pdf File Bruteforcer
+
+- [Code](https://github.com/calc1f4r/30-days-of-black-hat-python/tree/master/Black_Hat_Python/Day%2015)
