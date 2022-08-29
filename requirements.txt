@@ -5,3 +5,4 @@ termcolor
 paramiko
 requests
 beautifulsoup4
+PyPDF2
