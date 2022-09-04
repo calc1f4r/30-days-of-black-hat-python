@@ -3,7 +3,7 @@
 Hey, Everyone knows what a reverse shell is nowadays, So why not make it out of python!
 With this reverse shell you can also screenshot just of the victim machine just type, screenshot on the terminal !
 
-- ## victim.py => execute it on the victim device i
+- victim.py => execute it on the victim device i
 - server.py => It is for own , use it to listen for connections
 
 ## Learning
