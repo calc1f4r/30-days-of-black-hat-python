@@ -28,7 +28,7 @@
 
 ### 4. Reverse shell!
 
-- [Code](https://github.com/calc1f4r/30-days-of-black-hat-python/tree/master/Black_Hat_Python/Day%2006)
+- [Code](https://github.com/calc1f4r/30-days-of-black-hat-python/tree/master/Black_Hat_Python/Day%2007)
 
 ---
 
