@@ -6,3 +6,7 @@ paramiko
 requests
 beautifulsoup4
 PyPDF2
+PyScreeze
+sounddevice
+scipy
+opencv-python
